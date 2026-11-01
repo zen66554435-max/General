@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+flask
+requests
+gTTS
+qrcode[pil]
+Pillow
+pyshorteners
+deep-translator
+pywebpush
